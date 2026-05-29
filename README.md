@@ -12,7 +12,7 @@ I am a passionate **MERN Stack Developer** focused on building fast, scalable, a
 🚀 **Building real-world projects & scalable applications**  
 🌱 **Continuously learning & improving every day**  
 💼 **Portfolio:** https://github.com/acharyanisha1234  
-📫 **Email:** acharyanisha1234@gmail.com  
+📫 **Email:** acharyanisha2063@gmail.com  
 🔗 **LinkedIn:** https://www.linkedin.com/in/nisha-acharya-8711b4400
 
 ---
@@ -57,7 +57,7 @@ I am a passionate **MERN Stack Developer** focused on building fast, scalable, a
 
 ## 📫 Connect With Me
 
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:acharyanisha1234@gmail.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:acharyanisha2063@gmail.com)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/acharyanisha1234)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nisha-acharya-8711b4400)
 
