@@ -42,16 +42,30 @@ I am a passionate **MERN Stack Developer** focused on building fast, scalable, a
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Contributions
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=acharyanisha1234&show_icons=true&theme=radical&hide_border=true" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=acharyanisha1234&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=acharyanisha1234&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=acharyanisha1234&layout=compact&theme=radical&hide_border=true" width="40%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=acharyanisha1234&theme=github-compact&hide_border=true&area=true" width="100%" />
 </div>
+
+<div align="center">
+  <img src="https://ghchart.rshah.org/acharyanisha1234" alt="GitHub Contribution Chart" width="100%" />
+</div>
+
+---
+
+## 🔥 Activity Overview
+
+- 🟢 **475+ contributions** in the last year
+- 📅 **Longest Streak:** May 19 - May 20, 2026
+- ⚡ **Current Streak:** May 29, 2026
+- 💻 **Commits:** 75% | **Pull Requests:** 25%
+- 📁 **Contributed to:** 8+ repositories
 
 ---
 
