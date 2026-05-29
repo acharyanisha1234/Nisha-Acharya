@@ -44,15 +44,6 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" alt="Sparkles" width="30" height="30" /> My Projects
-
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| [Zen Time](https://github.com/acharyanisha1234/Zen-Time) | Modern watch brand website with product catalog & shopping cart | HTML, CSS, JavaScript |
-| [Swastha Sangai](https://github.com/acharyanisha1234/Swastha-Sangai) | Health & wellness platform with complete frontend & backend | React, Node.js, PostgreSQL |
-
----
-
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="30" height="30" /> GitHub Stats
 
 <div align="center">
