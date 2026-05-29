@@ -48,7 +48,6 @@
 |---------|-------------|------------|
 | [Zen Time](https://github.com/acharyanisha1234/Zen-Time) | Modern watch brand website with product catalog & shopping cart | HTML, CSS, JavaScript |
 | [Swastha Sangai](https://github.com/acharyanisha1234/Swastha-Sangai) | Health & wellness platform with complete frontend & backend | React, Node.js, MongoDB |
-| [WristCraft](https://github.com/acharyanisha1234/Waist-Craft-) | Watch brand showcase website with responsive design | HTML, CSS |
 
 ---
 
@@ -59,28 +58,4 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=acharyanisha1234&theme=default&hide_border=true" width="48%" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=acharyanisha1234&layout=compact&theme=default&hide_border=true" width="40%" />
-</div>
-
----
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Inbox%20Tray.png" alt="Inbox Tray" width="30" height="30" /> Connect With Me
-
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:acharyanisha1234@gmail.com)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/acharyanisha1234)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nisha-acharya-8711b4400)
-
----
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Fire.png" alt="Fire" width="25" height="25" />
-  <i>“Learning, building, and improving every day.”</i>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Fire.png" alt="Fire" width="25" height="25" />
-</div>
-
----
-
-### 🏆 GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=acharyanisha1234&theme=flat&no-frame=true&margin-w=15" width="100%" />
+<div
