@@ -53,10 +53,6 @@ I am a passionate **MERN Stack Developer** focused on building fast, scalable, a
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=acharyanisha1234&theme=github-compact&hide_border=true&area=true" width="100%" />
 </div>
 
-<div align="center">
-  <img src="https://ghchart.rshah.org/acharyanisha1234" alt="GitHub Contribution Chart" width="100%" />
-</div>
-
 ---
 
 ## 🔥 Activity Overview
